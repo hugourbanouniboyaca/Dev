@@ -13,3 +13,11 @@ footer{
   height: 130px;
   background-color: red;
 }
+
+p{
+  padding: 20px;
+}
+
+strong{
+  color: green;
+}
